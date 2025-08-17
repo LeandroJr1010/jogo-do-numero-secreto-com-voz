@@ -3,7 +3,7 @@ titulo.innerHTML = "Jogo do Número Secreto"; // Altera o conteúdo do elemento 
 // querySelectorAll() selecioan todos os elementos
 
 /*let paragrafo = document.querySelector("p");
-paragrafo.innerHTML = "Escolha um número entre 1 e 10";*/
+paragrafo.innerHTML = "Escolha um número entre 1 e 10000";*/
 
 //fazer acima ou resumir a chamada das tags abaixo
 
